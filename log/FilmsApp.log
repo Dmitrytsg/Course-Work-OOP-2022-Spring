@@ -1,0 +1,155 @@
+10:18:47,068  INFO AWT-EventQueue-0 Interface:actionPerformed:207 - PDF Generate!
+10:19:12,850  INFO AWT-EventQueue-0 Interface:actionPerformed:207 - PDF Generate!
+2022-06-08 10:20:18 10:20:18,599  INFO AWT-EventQueue-0 Interface:actionPerformed:207 - PDF Generate!
+2022-06-08 10:20:38  INFO AWT-EventQueue-0 Interface:actionPerformed:207 - PDF Generate!
+2022-06-08 10:21:21 Interface:actionPerformed:207 - PDF Generate!
+2022-06-08 10:21:39  INFO Interface:actionPerformed:207 - PDF Generate!
+2022-06-08 10:24:19  WARN Interface:actionPerformed:199 - PDF Generate error - File Not Found
+2022-06-08 10:25:29  INFO Interface:actionPerformed:288 - XML File saved!
+2022-06-08 10:26:47  INFO Interface:actionPerformed:260 - Delete Row-1in table
+2022-06-08 10:27:16  INFO Interface:actionPerformed:260 - Deleted Row -1 in table
+2022-06-08 10:29:47  INFO Interface:actionPerformed:231 - Get Data Sessions from DB
+2022-06-08 10:29:53  INFO Interface:actionPerformed:242 - Get Data Persons from DB
+2022-06-08 10:31:13  INFO Interface:actionPerformed:171 - Exit from APP
+2022-06-08 10:31:25  INFO Interface:actionPerformed:171 - Exit from APP
+2022-06-08 11:21:32  INFO Interface:actionPerformed:221 - Get Data Films from DB
+2022-06-08 11:32:45  INFO Interface:actionPerformed:232 - Get Data Sessions from DB
+2022-06-08 11:32:46  INFO Interface:actionPerformed:243 - Get Data Persons from DB
+2022-06-08 11:37:32  INFO Interface:actionPerformed:264 - Deleted Row -1 in table
+2022-06-08 11:40:20  INFO Interface:actionPerformed:264 - Deleted Row -1 in table
+2022-06-08 11:40:23  INFO Interface:actionPerformed:264 - Deleted Row -1 in table
+2022-06-08 11:43:15  INFO Interface:actionPerformed:243 - Get Data Persons from DB
+2022-06-08 11:43:22  INFO Interface:actionPerformed:221 - Get Data Films from DB
+2022-06-08 12:13:36  INFO Interface:actionPerformed:227 - Get Data Sessions from DB
+2022-06-08 13:30:53  INFO Interface:actionPerformed:294 - Get Data Persons from DB
+2022-06-08 14:35:15  INFO Interface:actionPerformed:343 - Get Data Films from DB
+2022-06-08 14:35:17  INFO Interface:actionPerformed:354 - Get Data Sessions from DB
+2022-06-08 14:35:17  INFO Interface:actionPerformed:343 - Get Data Films from DB
+2022-06-08 14:40:00  INFO Interface:actionPerformed:356 - Get Data Sessions from DB
+2022-06-08 14:40:03  INFO Interface:actionPerformed:367 - Get Data Persons from DB
+2022-06-08 14:40:04  INFO Interface:actionPerformed:345 - Get Data Films from DB
+2022-06-08 14:42:19  INFO Interface:actionPerformed:387 - Deleted Row -1 in table
+2022-06-08 14:43:16  INFO Interface:actionPerformed:415 - XML File saved!
+2022-06-08 14:51:42  INFO Interface:actionPerformed:387 - Deleted Row -1 in table
+2022-06-08 14:51:43  INFO Interface:actionPerformed:387 - Deleted Row -1 in table
+2022-06-08 14:51:45  INFO Interface:actionPerformed:387 - Deleted Row -1 in table
+2022-06-08 14:51:48  INFO Interface:actionPerformed:387 - Deleted Row -1 in table
+2022-06-08 14:51:50  INFO Interface:actionPerformed:387 - Deleted Row -1 in table
+2022-06-08 14:53:22  INFO Interface:actionPerformed:355 - Get Data Sessions from DB
+2022-06-08 14:53:24  INFO Interface:actionPerformed:366 - Get Data Persons from DB
+2022-06-08 14:53:27  INFO Interface:actionPerformed:344 - Get Data Films from DB
+2022-06-08 15:23:55  INFO Interface:actionPerformed:380 - Get Data Sessions from DB
+2022-06-08 15:23:58  INFO Interface:actionPerformed:391 - Get Data Persons from DB
+2022-06-08 15:24:04  INFO Interface:actionPerformed:369 - Get Data Films from DB
+2022-06-08 15:24:06  INFO Interface:actionPerformed:380 - Get Data Sessions from DB
+2022-06-08 15:26:21  INFO Interface:actionPerformed:380 - Get Data Sessions from DB
+2022-06-08 15:27:07  INFO Interface:actionPerformed:380 - Get Data Sessions from DB
+2022-06-08 15:27:13  INFO Interface:actionPerformed:391 - Get Data Persons from DB
+2022-06-08 15:27:41  INFO Interface:actionPerformed:369 - Get Data Films from DB
+2022-06-08 15:29:29  INFO Interface:actionPerformed:391 - Get Data Persons from DB
+2022-06-08 15:29:30  INFO Interface:actionPerformed:369 - Get Data Films from DB
+2022-06-08 15:30:05  INFO Interface:actionPerformed:391 - Get Data Persons from DB
+2022-06-08 15:30:08  INFO Interface:actionPerformed:369 - Get Data Films from DB
+2022-06-08 15:32:58  INFO Interface:actionPerformed:516 - Get Data Sessions from DB
+2022-06-08 15:33:03  INFO Interface:actionPerformed:505 - Get Data Films from DB
+2022-06-08 15:35:21  INFO Interface:actionPerformed:505 - Get Data Films from DB
+2022-06-08 16:24:29  INFO Interface:actionPerformed:591 - Get Data Sessions from DB
+2022-06-08 16:24:31  INFO Interface:actionPerformed:602 - Get Data Persons from DB
+2022-06-08 16:24:33  INFO Interface:actionPerformed:580 - Get Data Films from DB
+2022-06-08 16:24:43  INFO Interface:actionPerformed:557 - PDF Generate!
+2022-06-08 16:24:52  INFO Interface:actionPerformed:651 - XML File saved!
+2022-06-08 16:25:00  INFO Interface:actionPerformed:557 - PDF Generate!
+2022-06-08 16:28:35  INFO Interface:actionPerformed:467 - Reload filmtest2
+2022-06-08 16:29:47  INFO Interface:actionPerformed:269 - Add film 34
+2022-06-08 16:51:13  INFO Interface:actionPerformed:775 - Get Data Persons from DB
+2022-06-08 16:51:17  INFO Interface:actionPerformed:796 - Deleted Row -1 in table
+2022-06-08 16:51:25  INFO Interface:actionPerformed:753 - Get Data Films from DB
+2022-06-08 17:01:09  INFO Interface:actionPerformed:775 - Get Data Persons from DB
+2022-06-08 17:02:02  INFO Interface:actionPerformed:627 - Add person 66
+2022-06-08 17:02:21  INFO Interface:actionPerformed:796 - Deleted Row -1 in table
+2022-06-08 17:05:02  INFO Interface:actionPerformed:691 - Exit from APP
+2022-06-08 17:05:18  INFO Interface:actionPerformed:764 - Get Data Sessions from DB
+2022-06-08 17:06:34  INFO Interface:actionPerformed:269 - Add film 45
+2022-06-08 17:06:52  INFO Interface:actionPerformed:627 - Add person 45
+2022-06-08 17:06:54  INFO Interface:actionPerformed:775 - Get Data Persons from DB
+2022-06-08 17:06:59  INFO Interface:actionPerformed:753 - Get Data Films from DB
+2022-06-08 17:07:21  INFO Interface:actionPerformed:775 - Get Data Persons from DB
+2022-06-08 17:09:54  INFO Interface:actionPerformed:764 - Get Data Sessions from DB
+2022-06-08 17:10:01  INFO Interface:actionPerformed:753 - Get Data Films from DB
+2022-06-08 17:49:50  INFO Interface:actionPerformed:751 - Add session 2022-22-22 Start Time: 12:30
+2022-06-08 17:52:23  INFO Interface:actionPerformed:751 - Add session 2022-22-22 Start Time: 12:20
+2022-06-08 17:58:42  INFO Interface:actionPerformed:755 - Add session 2022-06-08 Start Time: 12:30
+2022-06-08 17:58:45  INFO Interface:actionPerformed:899 - Get Data Sessions from DB
+2022-06-08 17:59:01  INFO Interface:actionPerformed:888 - Get Data Films from DB
+2022-06-08 18:00:36  INFO Interface:actionPerformed:910 - Get Data Persons from DB
+2022-06-08 18:00:38  INFO Interface:actionPerformed:931 - Deleted Row -1 in table
+2022-06-08 18:00:53  INFO Interface:actionPerformed:888 - Get Data Films from DB
+2022-06-08 18:00:56  INFO Interface:actionPerformed:931 - Deleted Row -1 in table
+2022-06-08 18:01:08  INFO Interface:actionPerformed:899 - Get Data Sessions from DB
+2022-06-08 18:01:12  INFO Interface:actionPerformed:931 - Deleted Row -1 in table
+2022-06-08 18:02:21  INFO Interface:actionPerformed:931 - Deleted Row -1 in table
+2022-06-08 18:05:48  INFO Interface:actionPerformed:265 - Add film The Green Mile
+2022-06-08 18:08:23  INFO Interface:actionPerformed:623 - Add person Frank
+2022-06-08 18:08:26  INFO Interface:actionPerformed:910 - Get Data Persons from DB
+2022-06-08 18:08:30  INFO Interface:actionPerformed:888 - Get Data Films from DB
+2022-06-08 18:08:54  INFO Interface:actionPerformed:910 - Get Data Persons from DB
+2022-06-08 18:09:05  INFO Interface:actionPerformed:888 - Get Data Films from DB
+2022-06-08 18:09:30  INFO Interface:actionPerformed:899 - Get Data Sessions from DB
+2022-06-08 18:09:32  INFO Interface:actionPerformed:910 - Get Data Persons from DB
+2022-06-08 18:09:34  INFO Interface:actionPerformed:888 - Get Data Films from DB
+2022-06-08 18:10:32  INFO Interface:actionPerformed:623 - Add person Tom
+2022-06-08 18:11:16  INFO Interface:actionPerformed:623 - Add person David
+2022-06-08 18:11:20  INFO Interface:actionPerformed:910 - Get Data Persons from DB
+2022-06-08 18:11:26  INFO Interface:actionPerformed:931 - Deleted Row -1 in table
+2022-06-08 18:11:55  INFO Interface:actionPerformed:623 - Add person Bonnie
+2022-06-08 18:13:09  INFO Interface:actionPerformed:755 - Add session 2022-06-12 Start Time: 12:30
+2022-06-08 18:13:23  INFO Interface:actionPerformed:888 - Get Data Films from DB
+2022-06-08 18:15:43  INFO Interface:actionPerformed:755 - Add session 2022-06-12 Start Time: 13:40
+2022-06-08 18:16:22  INFO Interface:actionPerformed:818 - Exit from APP
+2022-06-08 18:18:15  INFO Interface:actionPerformed:755 - Add session 2022-06-17 Start Time: 12:30
+2022-06-08 18:20:28  INFO Interface:actionPerformed:265 - Add film Schindler's List
+2022-06-08 18:21:09  INFO Interface:actionPerformed:623 - Add person Steven
+2022-06-08 18:24:10  INFO Interface:actionPerformed:899 - Get Data Sessions from DB
+2022-06-08 18:24:12  INFO Interface:actionPerformed:910 - Get Data Persons from DB
+2022-06-08 18:24:48  INFO Interface:actionPerformed:623 - Add person Liam
+2022-06-08 18:24:51  INFO Interface:actionPerformed:888 - Get Data Films from DB
+2022-06-08 18:24:53  INFO Interface:actionPerformed:910 - Get Data Persons from DB
+2022-06-08 18:24:56  INFO Interface:actionPerformed:899 - Get Data Sessions from DB
+2022-06-08 18:25:00  INFO Interface:actionPerformed:888 - Get Data Films from DB
+2022-06-08 18:26:07  INFO Interface:actionPerformed:755 - Add session 2022-06-13 Start Time: 17:20
+2022-06-08 18:27:27  INFO Interface:actionPerformed:265 - Add film Forrest Gump
+2022-06-08 18:28:24  INFO Interface:actionPerformed:623 - Add person Robert
+2022-06-08 18:29:04  INFO Interface:actionPerformed:623 - Add person Robin
+2022-06-08 18:30:01  INFO Interface:actionPerformed:755 - Add session 2022-07-12 Start Time: 18:20
+2022-06-08 18:30:12  INFO Interface:actionPerformed:899 - Get Data Sessions from DB
+2022-06-08 18:30:14  INFO Interface:actionPerformed:910 - Get Data Persons from DB
+2022-06-08 18:30:17  INFO Interface:actionPerformed:888 - Get Data Films from DB
+2022-06-08 18:38:35  INFO Interface:actionPerformed:930 - PDF Generate!
+2022-06-08 18:38:50  INFO Interface:actionPerformed:1024 - XML File saved!
+2022-06-08 18:38:52  INFO Interface:actionPerformed:930 - PDF Generate!
+2022-06-08 18:53:00  INFO Interface:actionPerformed:1040 - XML File saved!
+2022-06-08 18:53:05  INFO Interface:actionPerformed:946 - PDF Generate!
+2022-06-08 18:56:44  INFO Interface:actionPerformed:946 - PDF Generate!
+2022-06-08 18:57:29  INFO Interface:actionPerformed:1044 - XML File saved!
+2022-06-08 18:58:59  INFO Interface:actionPerformed:1044 - XML File saved!
+2022-06-08 19:01:06  INFO Interface:actionPerformed:995 - Get Data Persons from DB
+2022-06-08 19:01:15  INFO Interface:actionPerformed:973 - Get Data Films from DB
+2022-06-08 19:01:29  INFO Interface:actionPerformed:899 - Exit from APP
+2022-06-08 19:02:32  INFO Interface:actionPerformed:265 - Add film 12
+2022-06-08 19:02:38  INFO Interface:actionPerformed:1010 - Deleted Row 3 in table
+2022-06-08 19:03:43  INFO Interface:actionPerformed:1010 - Deleted Row 3 in table
+2022-06-08 20:04:24  INFO Interface:actionPerformed:946 - PDF Generate!
+2022-06-08 20:15:19  INFO Interface:actionPerformed:946 - PDF Generate!
+2022-06-08 20:15:23  INFO Interface:actionPerformed:1050 - XML File saved!
+2022-06-08 20:15:26  INFO Interface:actionPerformed:946 - PDF Generate!
+2022-06-08 20:17:00  INFO Interface:actionPerformed:265 - Add film 12
+2022-06-08 20:17:50  INFO Interface:actionPerformed:265 - Add film 12
+2022-06-08 20:18:35  INFO Interface:actionPerformed:995 - Get Data Persons from DB
+2022-06-08 20:19:23  INFO Interface:actionPerformed:623 - Add person test
+2022-06-08 20:20:19  INFO Interface:actionPerformed:755 - Add session 2022-22-02 Start Time: 13:40
+2022-06-08 20:20:21  INFO Interface:actionPerformed:984 - Get Data Sessions from DB
+2022-06-08 20:21:14  INFO Interface:actionPerformed:973 - Get Data Films from DB
+2022-06-08 20:21:33  INFO Interface:actionPerformed:984 - Get Data Sessions from DB
+2022-06-08 20:21:44  INFO Interface:actionPerformed:973 - Get Data Films from DB
+2022-06-08 20:21:54  INFO Interface:actionPerformed:1050 - XML File saved!
+2022-06-08 20:21:57  INFO Interface:actionPerformed:946 - PDF Generate!
